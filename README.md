@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://y.yarn.co/b0ece079-00b6-4339-9d05-da20fed0ec41_text.gif" alt="Animated GIF showcasing StudyBay's collaborative learning environment" width="600">
-</p>
-
 # StudyBay
 
 <p align="center">
@@ -51,6 +47,11 @@ We’d love for you to join our community! Here’s how:
 Have questions? Reach out at [contact@studybay.org](mailto:contact@studybay.org) or visit our [website](https://www.studybay.org).
 
 ---
+
+<p align="center">
+  <img src="https://y.yarn.co/b0ece079-00b6-4339-9d05-da20fed0ec41_text.gif" alt="Animated GIF showcasing StudyBay's collaborative learning environment" width="600">
+</p>
+
 
 <p align="center">
   <strong>StudyBay: Where learning meets collaboration.</strong>
